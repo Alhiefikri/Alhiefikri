@@ -1,7 +1,3 @@
-Tentu! Berikut adalah versi yang sudah diperbarui dengan menghapus referensi ke **Vue.js**, dan lebih fokus pada **React** serta perkembangan belajarmu di sana. Saya juga menyesuaikan kata-katanya agar lebih fokus pada **React** dan **JavaScript**.
-
----
-
 # 👋 Hi there! I'm [Alhie Fikri]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alhiefikri&color=blueviolet)
