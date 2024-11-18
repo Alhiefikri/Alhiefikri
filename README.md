@@ -1,41 +1,47 @@
+Tentu! Berikut adalah versi yang sudah diperbarui dengan menghapus referensi ke **Vue.js**, dan lebih fokus pada **React** serta perkembangan belajarmu di sana. Saya juga menyesuaikan kata-katanya agar lebih fokus pada **React** dan **JavaScript**.
+
+---
+
 # 👋 Hi there! I'm [Alhie Fikri]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alhiefikri&color=blueviolet)
 
-I'm an aspiring **front-end developer** who loves crafting clean, responsive websites. Currently, I'm on a mission to sharpen my skills in **HTML, CSS, JavaScript**, and **Bootstrap**, while diving deeper into **Vue.js** and **PHP**. Oh, and I'm also **proficient in WordPress** using **Elementor** for building beautiful, user-friendly websites!
+I'm an aspiring **front-end developer** with a passion for building clean, responsive websites. Currently, I'm diving deep into **React** to enhance my front-end development skills, alongside sharpening my expertise in **HTML**, **CSS**, and **JavaScript**. I'm also continuing my journey with **WordPress** using **Elementor** to create beautiful, user-friendly websites.
 
 ### 🚀 Skills & Tools:
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: Bootstrap
+- **Frameworks & Libraries**: React, Bootstrap
 - **Tools**: Git, VSCode, Arch Linux, WordPress + Elementor
-- **Learning**: Vue.js, PHP basics
+- **Learning**: React (advanced concepts), PHP basics
 
 ---
 
 ### 👨‍💻 My Projects:
-- [**Aqiqah Website**](#): A simple, responsive website for an aqiqah service. Built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. This project focuses on clean UI and smooth user experience.
-- **WordPress Elementor Sites**: I have created multiple websites using **WordPress** and **Elementor**, focusing on **speed**, **user experience**, and **modern design**.
+- [**Tiny JavaScript Project**](https://alhiefikri.github.io/javascript-project/): A fun, interactive project built with **React**. It includes features like state management, event handling, and dynamic UI updates to help me strengthen my Javascript skills.
+- **WordPress Elementor Sites**: I've created multiple websites using **WordPress** and **Elementor**, optimizing them for **speed**, **SEO**, and **user experience**.
 
 ---
 
 ### 🛠️ Currently Working On:
-- Enhancing my **JavaScript** skills with more interactive features.
-- Learning **Vue.js** to improve my front-end development flow.
-- Exploring **PHP** to start understanding the backend side of web development.
+- Building more interactive features in **React** by developing small apps and projects.
+- Exploring deeper concepts of **React** such as hooks, context API, and routing.
+- Enhancing my **JavaScript** skills by building projects that require dynamic, responsive behaviors.
+- Learning **PHP** basics to expand my understanding of full-stack development.
 
 ---
 
 ### 🎯 2024 Goals:
-- Build a full-stack project using **Vue.js** and **PHP**.
-- Deploy my projects using **GitHub Pages** or **Vercel**.
-- Contribute to open-source projects to improve collaboration skills.
-- Create more advanced **WordPress Elementor** websites and optimize for **SEO**.
+- Build a **full-stack web application** using **React** and **PHP** to strengthen my back-end skills.
+- Deploy my React projects to platforms like **GitHub Pages** and **Vercel**.
+- Contribute to open-source projects to improve my collaboration skills and gain experience working on larger codebases.
+- Create more advanced **WordPress Elementor** websites and optimize them for **SEO** and **performance**.
 
 ---
 
 ### 🌱 Fun Facts:
-- I use **Arch Linux** as my daily driver because customization is 🔥.
-- Currently diving deep into **JavaScript**, **PHP**, and **WordPress**, with a stoic mindset to keep pushing forward!
+- I'm an **Arch Linux** enthusiast because I love the flexibility and customization options it provides.
+- Currently exploring **JavaScript** and **React**—always pushing forward to learn more!
+- I enjoy experimenting with **UI/UX design** and trying to make websites not only functional but also aesthetically pleasing.
 
 ---
 
