@@ -5,16 +5,15 @@
 I'm an aspiring **front-end developer** with a passion for building clean, responsive websites. Currently, I'm diving deep into **React** to enhance my front-end development skills, alongside sharpening my expertise in **HTML**, **CSS**, and **JavaScript**. I'm also continuing my journey with **WordPress** using **Elementor** to create beautiful, user-friendly websites.
 
 ### 🚀 Skills & Tools:
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: React, Bootstrap
+- **Languages**: HTML, CSS, JavaScript, PHP
+- **Frameworks & Libraries**: React, Bootstrap, Tailwind
 - **Tools**: Git, VSCode, Arch Linux, WordPress + Elementor
 - **Learning**: React (advanced concepts), PHP basics
 
 ---
 
 ### 👨‍💻 My Projects:
-- [**Tiny JavaScript Project**](https://alhiefikri.github.io/javascript-project/): A fun, interactive project built with **React**. It includes features like state management, event handling, and dynamic UI updates to help me strengthen my Javascript skills.
-- **WordPress Elementor Sites**: I've created multiple websites using **WordPress** and **Elementor**, optimizing them for **speed**, **SEO**, and **user experience**.
+- [**Tiny JavaScript Project**](https://alhiefikri.github.io/javascript-project/): A fun, interactive project built with **Native Javascript**. It includes dynamic UI updates to help me strengthen my Javascript skills.
 
 ---
 
