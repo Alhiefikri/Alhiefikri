@@ -23,7 +23,7 @@ I'm a **front-end developer** passionate about building clean, responsive, and u
 ## 📫 Let's Connect
 - **LinkedIn**: [linkedin.com/in/alif-fikri](https://www.linkedin.com/in/alif-fikri/)
 - **Facebook**: [facebook.com/alhiefikri](https://www.facebook.com/alhiefikri)
-- **Portfolio (Coming Soon!)**: [alhiepedia.rf.gd](https://alhiepedia.rf.gd)
+- **Portfolio (Coming Soon!)**: 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alhiefikri&show_icons=true&theme=radical)
