@@ -11,7 +11,7 @@ I'm a **front-end developer** passionate about building clean, responsive, and u
 - **Currently Learning**: Advanced React concepts, PHP basics
 
 ## 👨‍💻 Projects
-- [**The Wild Oasis**]([#](https://wild-oasis-alhiefikri.vercel.app/)): A **cabin booking web application** built with **React, React Query, and React Router**.
+- [**The Wild Oasis**](https://wild-oasis-alhiefikri.vercel.app/): A **cabin booking web application** built with **React, React Query, and React Router**.
 - [**Tiny JavaScript Project**](https://alhiefikri.github.io/javascript-project/): Interactive **vanilla JavaScript** project for dynamic UI updates.
 
 ## 🎯 2025 Goals
