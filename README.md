@@ -14,8 +14,8 @@ I'm a **front-end developer** passionate about building clean, responsive, and u
 - [**The Wild Oasis**](#): A **cabin booking web application** built with **React, React Query, and React Router**.
 - [**Tiny JavaScript Project**](https://alhiefikri.github.io/javascript-project/): Interactive **vanilla JavaScript** project for dynamic UI updates.
 
-## 🎯 2024 Goals
-- Build a **full-stack web application** using **React & PHP**.
+## 🎯 2025 Goals
+- Build a **full-stack web application** using **React & NEXT**.
 - Deploy React projects on **GitHub Pages, Vercel**.
 - Contribute to **open-source projects**.
 - Create advanced **WordPress Elementor** websites optimized for SEO.
