@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alhie Fikri
+# 👋 Hi, I'm Alif Fikri
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alhiefikri&color=blueviolet)
 
