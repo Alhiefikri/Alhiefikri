@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,Next.js**
 
-- 👨‍💻 All of my projects are available at [alhiefikri.vercel.app](alhiefikri.vercel.app)
+- 👨‍💻 All of my projects are available at [[alhiefikri.vercel.app](https://alhiefikri.vercel.app)]
 
 - 📫 How to reach me **alhiefikri12@gmail.com**
 
